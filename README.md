@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,8 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0881-boats-to-save-people](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0881-boats-to-save-people) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
