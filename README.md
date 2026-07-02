@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0771-jewels-and-stones) |
+| [3019-number-of-changing-keys](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3019-number-of-changing-keys) |
 ## Math
 |  |
 | ------- |
