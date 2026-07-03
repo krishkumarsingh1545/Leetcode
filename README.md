@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1089-duplicate-zeros](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0881-boats-to-save-people](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1089-duplicate-zeros](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
