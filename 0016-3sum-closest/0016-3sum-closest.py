@@ -3,7 +3,8 @@ class Solution:
         nums.sort()
         fixed = 0
         close = nums[0] + nums[1] + nums[2]
-        while fixed < len(nums) - 2:
+        for fixed in range(len(nums) - 2):
+            # if nums[fixed] == nums[fixed-1]: continue
             left = fixed + 1
             right = len(nums) - 1
             while left < right:
@@ -16,5 +17,4 @@ class Solution:
                     right-=1
                 else:
                     left+=1
-            fixed+=1
         return close
