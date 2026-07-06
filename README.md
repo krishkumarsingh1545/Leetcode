@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0881-boats-to-save-people) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
