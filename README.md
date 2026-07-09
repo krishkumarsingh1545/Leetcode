@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0905-sort-array-by-parity) |
