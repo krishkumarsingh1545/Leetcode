@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0507-perfect-number) |
 | [1486-xor-operation-in-an-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3838-weighted-word-mapping](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
