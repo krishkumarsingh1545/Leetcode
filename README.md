@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0507-perfect-number) |
 | [1486-xor-operation-in-an-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2413-smallest-even-multiple](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
