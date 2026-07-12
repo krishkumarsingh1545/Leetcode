@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0771-jewels-and-stones) |
+| [3668-restore-finishing-order](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3668-restore-finishing-order](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3838-weighted-word-mapping](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
