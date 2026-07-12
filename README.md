@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0507-perfect-number) |
 | [1486-xor-operation-in-an-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2413-smallest-even-multiple](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3838-weighted-word-mapping](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
