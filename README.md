@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3838-weighted-word-mapping](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3894-traffic-signal-color](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3838-weighted-word-mapping](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Matrix
 |  |
 | ------- |
