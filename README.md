@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -201,4 +204,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0724-find-pivot-index) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
