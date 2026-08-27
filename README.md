@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0383-ransom-note) |
+| [0645-set-mismatch](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3668-restore-finishing-order](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Array
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Greedy
