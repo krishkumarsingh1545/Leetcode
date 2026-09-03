@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1587-bank-account-summary-ii](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1587-bank-account-summary-ii) |
+| [1683-invalid-tweets](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
