@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1148-article-views-i) |
+| [1587-bank-account-summary-ii](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
