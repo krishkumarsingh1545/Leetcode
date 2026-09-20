@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
