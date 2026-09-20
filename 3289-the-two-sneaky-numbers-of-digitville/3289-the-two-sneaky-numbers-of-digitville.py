@@ -1,0 +1,13 @@
+class Solution:
+    def getSneakyNumbers(self, nums: List[int]) -> List[int]:
+        dic = {}
+        out = []
+        for i in nums:
+            if i in dic:
+                dic[i] += 1
+            else:
+                dic[i] = 1
+        for key, value in dic.items():
+            if value == 2:
+                out.append(key)
+        return out
