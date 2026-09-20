@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3467-transform-array-by-parity](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3838-weighted-word-mapping](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3467-transform-array-by-parity](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0383-ransom-note) |
+| [3467-transform-array-by-parity](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
