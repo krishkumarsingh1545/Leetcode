@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [2278-percentage-of-letter-in-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2678-number-of-senior-citizens](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2942-find-words-containing-character) |
