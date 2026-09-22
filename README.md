@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2942-find-words-containing-character](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3146-permutation-difference-between-two-strings](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
