@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1550-three-consecutive-odds) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1816-truncate-sentence) |
