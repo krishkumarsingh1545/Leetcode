@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3146-permutation-difference-between-two-strings](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3174-clear-digits](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3174-clear-digits](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3894-traffic-signal-color) |
@@ -326,4 +328,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [3174-clear-digits](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
