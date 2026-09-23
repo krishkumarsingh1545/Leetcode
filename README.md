@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2678-number-of-senior-citizens](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2788-split-strings-by-separator](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3146-permutation-difference-between-two-strings](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2678-number-of-senior-citizens](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2788-split-strings-by-separator](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
