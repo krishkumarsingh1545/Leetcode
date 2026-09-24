@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/krishkumarsingh1545/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/krishkumarsingh1545/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -360,4 +362,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/krishkumarsingh1545/Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
