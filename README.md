@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Counting
 |  |
 | ------- |
