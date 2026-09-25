@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0876-middle-of-the-linked-list) |
