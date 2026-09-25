@@ -1,14 +1,14 @@
 class Solution:
     def repeatedSubstringPattern(self, s: str) -> bool:
-        k = len(s)//2
-        while k != 0:
-            i = 0
+        n = len(s)
+
+        for k in range(n // 2, 0, -1):
+            if n % k != 0:
+                continue
+
             sub = s[:k]
-            while i < len(s):
-                if sub != s[i:k+i]:
-                    break
-                i += k
-            if i == len(s):
+
+            if sub * (n // k) == s:
                 return True
-            k -= 1
+
         return False
