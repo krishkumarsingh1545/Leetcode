@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0412-fizz-buzz) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/krishkumarsingh1545/Leetcode/tree/master/0136-single-number) |
