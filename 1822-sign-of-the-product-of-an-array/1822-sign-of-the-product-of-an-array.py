@@ -6,5 +6,4 @@ class Solution:
                 chk += 1
             if i == 0:
                 return 0
-        # print(chk)
         return 1 if chk % 2 == 0 else -1
